@@ -10,7 +10,7 @@
 ## Agenda de investigación
 
 - **Economía urbana y del transporte.** Movilidad, infraestructura de transporte y evaluación de impacto en ciudades latinoamericanas.
-- **Economía laboral y de los hogares.** Fecundidad, composición del hogar y brechas de género en el mercado laboral.
+- **Economía laboral y de los hogares.** Fecundidad, composición del hogar, demanda laboral y brechas de género en el mercado laboral.
 - **Economía del crimen.** Cómo la red de calles y la forma urbana moldean las oportunidades delictivas.
 - **Datos espaciales e inferencia causal.** Registros de telefonía celular, redes de calles y datos administrativos para la evaluación de políticas.
 - **Organización industrial empírica.** Competencia y colusión en mercados minoristas de combustibles.

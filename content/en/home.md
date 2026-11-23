@@ -8,7 +8,7 @@
 
 ## About
 
-I am an applied microeconomist working on urban economics, labor economics, impact evaluation and quantitative methods. My main interests are competition in urban markets, transport and mobility, crime and the street network, and causal inference with spatial data. I currently work as a consultant economist at the World Bank.
+I am an applied microeconomist working on urban economics, labor economics, impact evaluation and quantitative methods. My main interests are urban markets, transport, crime, causal inference, and spatial analysis. I currently work as a consultant economist at the World Bank.
 
 I hold a Master in Economics from Universidad Alberto Hurtado in Santiago, Chile (Magna Cum Laude), and a B.A. in Economics from Universidad Mayor de San Andrés (La Paz, Bolivia).
 

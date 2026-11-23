@@ -10,7 +10,7 @@
 ## Research agenda
 
 - **Urban and transport economics.** Mobility, transport infrastructure and impact evaluation in Latin American cities.
-- **Labor and household economics.** Fertility, household composition and gender gaps in labor-market outcomes.
+- **Labor and household economics.** Fertility, household composition, labor demand, and gender gaps in labor-market outcomes.
 - **Economics of crime.** How the street network and urban form shape criminal opportunity.
 - **Spatial data and causal inference.** Mobile phone records, street networks and administrative data for policy evaluation.
 - **Empirical industrial organization.** Competition and collusion in retail fuel markets.

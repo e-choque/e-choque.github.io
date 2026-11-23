@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un microeconomista aplicado que trabaja en economía urbana, economía laboral, evaluación de impacto y métodos cuantitativos. Mis principales intereses son la competencia en mercados urbanos, el transporte y la movilidad, el crimen y la red de calles, y la inferencia causal con datos espaciales. Actualmente trabajo como consultor economista en el Banco Mundial.
+Soy un microeconomista aplicado que trabaja en economía urbana, economía laboral, evaluación de impacto y métodos cuantitativos. Mis principales intereses son los mercados urbanos, el transporte, el crimen, la inferencia causal y el análisis espacial. Actualmente trabajo como consultor economista en el Banco Mundial.
 
 Tengo un Magíster en Economía de la Universidad Alberto Hurtado (Santiago, Chile), con distinción Magna Cum Laude, y soy Licenciado en Economía por la Universidad Mayor de San Andrés (La Paz, Bolivia).
 
