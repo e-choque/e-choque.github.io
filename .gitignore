@@ -1,0 +1,8 @@
+# Files that should never be published with the website
+.env
+*.env
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log
